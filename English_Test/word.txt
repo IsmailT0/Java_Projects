@@ -1,0 +1,58 @@
+one 
+bir
+two
+iki
+three
+üç 
+four 
+dört
+five 
+beş
+six 
+altı
+seven 
+yedi
+eight 
+sekiz
+nine 
+dokuz
+ten 
+on
+keep up with
+ayak uydurmak
+distinguish
+ayırt etmek
+qualitative
+nitel
+quantitative
+nicel
+Aggregation
+birleştirme
+Composition
+bileşim
+invoke
+başlatmak
+contrary
+aksi
+ramifications
+sonuçlar
+arise
+meydana gelmek
+peculiar
+özel/has
+tumeric
+zerdeçal
+massacre
+latşiam
+coriander
+kişniş
+cilantro
+kişniş
+rapeseed
+kolza tohumu
+prostrate
+secde etmek
+resigning
+istifa
+diameter
+çap
